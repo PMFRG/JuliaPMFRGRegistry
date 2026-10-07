@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: 585aed9e747ee633ae039fda1fc2fd6698cdbd07)
 name = "HDF5Helpers"
 uuid = "2867bddc-101e-43c9-836d-7ce2d0afa337"
-repo = "https://github.com/NilsNiggemann/HDF5Helpers.jl.git"
+repo = "https://github.com/PMFRG/HDF5Helpers.jl.git"

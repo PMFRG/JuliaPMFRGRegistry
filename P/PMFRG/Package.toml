@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: ea8299b44441acd90f195a3cdff97173baa4a7ad)
 name = "PMFRG"
 uuid = "37d616f8-0bcb-4e18-9a76-f5d18f52650d"
-repo = "https://github.com/NilsNiggemann/pmfrg.jl.git"
+repo = "https://github.com/PMFRG/PMFRG_Heisenberg.jl.git"

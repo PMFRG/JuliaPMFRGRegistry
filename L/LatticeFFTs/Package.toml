@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: 4ce6c57ebc03c7f9f8205cbb2eedba3bd0cb5e4c)
 name = "LatticeFFTs"
 uuid = "83e9f648-131d-4a3c-a1de-d155351cd207"
-repo = "https://github.com/NilsNiggemann/LatticeFFTs.jl.git"
+repo = "https://github.com/PMFRG/LatticeFFTs.jl.git"

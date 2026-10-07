@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: 4a9b5a007688dd724cf6f29b5ab5d19839354856)
 name = "SpinFRGLattices"
 uuid = "053fb7f8-31b7-4f68-aef8-4452b415dd8c"
-repo = "https://github.com/NilsNiggemann/SpinFRGLattices.jl.git"
+repo = "https://github.com/PMFRG/SpinFRGLattices.jl.git"

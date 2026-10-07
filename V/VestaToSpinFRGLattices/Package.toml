@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: 1505f631a34cb74f015aeaa6a1aed99770c3cd67)
 name = "VestaToSpinFRGLattices"
 uuid = "680434bc-4f64-4098-b23a-394725495aff"
-repo = "https://github.com/NilsNiggemann/VestaToSpinFRGLattices.jl.git"
+repo = "https://github.com/PMFRG/VestaToSpinFRGLattices.jl.git"
