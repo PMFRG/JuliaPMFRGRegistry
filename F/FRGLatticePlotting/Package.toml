@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: d1ddcf2f8023192c95ef208f3380f79862bbc931)
 name = "FRGLatticePlotting"
 uuid = "0e1bda0b-f6c0-498b-8522-61e6152bcfb4"
-repo = "https://github.com/NilsNiggemann/FRGLatticePlotting.jl.git"
+repo = "https://github.com/PMFRG/FRGLatticePlotting.jl.git"

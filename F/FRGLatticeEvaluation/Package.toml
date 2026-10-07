@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: 0ee835ba0c9969b4396779f329d9d10acbc4929c)
 name = "FRGLatticeEvaluation"
 uuid = "a44b592b-45f7-4b02-a4df-e53b23f0d903"
-repo = "https://github.com/NilsNiggemann/FRGLatticeEvaluation.jl.git"
+repo = "https://github.com/PMFRG/FRGLatticeEvaluation.jl.git"
